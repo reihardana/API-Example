@@ -1,0 +1,24 @@
+{
+  "users" : [
+    {
+      "name": "Griffin",
+      "address": "Gunsan"
+    },
+    {
+      "name": "Malik",
+      "address": "Jeju"
+    },
+    {
+      "name": "Sasha",
+      "address": "Omal"
+    },
+    {
+      "name": "Sylvester",
+      "address": "Risør"
+    },
+    {
+      "name": "Quemby",
+      "address": "Tehuacán"
+    }
+  ]
+}
